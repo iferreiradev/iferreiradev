@@ -3,7 +3,7 @@
 📫 How to reach me:
 
 <p align="left">
-  <a href="mailto:isabellavieira57@gmail.com" alt="Gmail">
+  <a href="mailto:isabellaferreira.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/isabellaferreira/" alt="LinkedIn">
